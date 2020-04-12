@@ -22,15 +22,14 @@
 > - Table:Specification Table with Slit distance and Angle Of refraction.
 Specification Table with Slit distance and Angle Of refraction
 |Serial No.|Distance|Slit distance	|Angle Of refraction		  |
----------------------------------------|1st Level|2nd Level|3rd Level|Total Angle|
-I |
+---------------------------------------|1st Level|2nd Level|3rd Level|Total Angle| |
   |	First Reading 15 CM	
   |					|		|
   |					|	4	|
   |					|	0	|
   |					|	3	|
 -----------------------------------------------------------------------------------						
-II|     Second Reading 30 CM		|		|
+  |     Second Reading 30 CM		|		|
   |					|		|
   |					|	6	|
   |					|	2	|
@@ -46,7 +45,7 @@ III |					|
 					|	0	|
 						12
 --------------------------------------------------------------------------------------
-IV |
+ |
    |					|		|
    |					|		|
    |	Fourth Reading at 60 CM		|		|
@@ -56,7 +55,7 @@ IV |
 					|	8	|
 						14
 --------------------------------------------------------------------------------------	
-V  |					|
+ 					|
    |	Fifth Reading at 75 CM		|
    |					|	10  	|
    |					|	4	|
@@ -64,7 +63,7 @@ V  |					|
 					|	6	|
 						14	|
 --------------------------------------------------------------------------------------
-VI |
+ |
    |					|
    |	 Sixth Reading At 90 CM		|			|
    |					|		10	|
